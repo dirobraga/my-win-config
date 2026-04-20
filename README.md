@@ -20,4 +20,6 @@ irm "https://christitus.com/win" | iex
 
 3. Clique na engrenagem > import;
 4. Selecione o arquivo "debloat-config.json";
-5. Run Tweaks =D
+5. Na aba install, clique em "Install/Upgrade aplications" e espera a conclusão;
+6. Na aba Tweaks, clique em "Run tweaks" e espere a conclusão.
+    > Todos os programas, tweaks e configurações automaticamente.
