@@ -34,13 +34,14 @@ irm "https://christitus.com/win" | iex
 > link do git: https://github.com/SpotX-Official/SpotX
 
 1. Abra o PowerShell ou Terminal (Windows 11) como **administrador**;
+2. Cole o comando abaixo;
 
 ```bash
 iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/SpotX/refs/heads/main/run.ps1') } -new_theme"
 ```
 
-2. Reponda as perguntas de acordo com suas preferências;
-3. Aproveite! =D
+3. Reponda as perguntas de acordo com suas preferências;
+4. Aproveite! =D
 
 ## 3. Importando perfis do Afterbuner e Rivaturner (Overlay para jogos)
 ![overlay](./assets/OSD.png)
