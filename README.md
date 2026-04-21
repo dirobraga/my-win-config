@@ -24,6 +24,7 @@ irm "https://christitus.com/win" | iex
 6. Na aba Tweaks, clique em **"Run tweaks"** e espere a conclusão.
 7. Pronto! =D
 > Todos os programas, tweaks e configurações serão aplicados automaticamente.
+
 > [!NOTE] Atenção!
 > Caso queria adicionar/tirar algum aplicativo ou opção, basta marcar/desmarcar o app ou tweak da sua preferência.
 
