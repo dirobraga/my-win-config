@@ -39,12 +39,12 @@ iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/SpotX/ref
 3. Aproveite! =D
 
 ## 3. Importando perfis do Afterbuner e Rivaturner (Overlay para jogos)
+![overlay](./assets/OSD.png)
+> Meu overlay bonitinho =D
 
 1. Copie todos os arquivos da pasta **"./backups/afterburner"** e cole em **"C:\Program Files (x86)\MSI Afterburner\Profiles"**;
 2. Copie todos os arquivos da pasta **"./backups/rivaturner"** e cole em **"C:\Program Files (x86)\RivaTuner Statistics Server\Profiles"**.
 3. Pronto! =D
     > Atalho **END** para ativar/desativar overlay e **PgUp** e **PgDn** para alterar.
 
-![overlay](./assets/OSD.png)
 
-> Meu overlay bonitinho =D
