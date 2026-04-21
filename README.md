@@ -1,6 +1,6 @@
 # Configuração do meu Windows 11
 
-Minhas configurações, programas e debloat para deixar o Windows 11 do jeito que eu gosto.
+Minhas configurações, programas e debloat para deixar o Windows 11 do jeito que eu gosto, muito mais clean e sem IA.
 
 ## 1. Chris Titus Tech's Windows Utility
 
