@@ -17,8 +17,9 @@ Este utilitário é uma compilação de tarefas do Windows que realizo em cada s
 ```bash
 irm "https://christitus.com/win" | iex
 ```
- > Aba "install" será os programas que serão baixados
- > Aba "Tweaks" será configurações do Windows
+> Aba "install" será os programas que serão baixados
+
+> Aba "Tweaks" será configurações do Windows
 3. Clique na engrenagem > import;
 4. Selecione o arquivo **"debloat-config.json"**;
 5. Na aba install, clique em **"Install/Upgrade aplications"** e espera a conclusão;
@@ -51,6 +52,6 @@ iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/SpotX/ref
 1. Copie todos os arquivos da pasta **"./backups/afterburner"** e cole em **"C:\Program Files (x86)\MSI Afterburner\Profiles"**;
 2. Copie todos os arquivos da pasta **"./backups/rivaturner"** e cole em **"C:\Program Files (x86)\RivaTuner Statistics Server\Profiles"**.
 3. Pronto! =D
-    > Atalho **END** para ativar/desativar overlay e **PgUp** e **PgDn** para alterar.
+> Atalho **END** para ativar/desativar overlay e **PgUp** e **PgDn** para alterar.
 
 
