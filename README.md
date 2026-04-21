@@ -1,4 +1,4 @@
-# Configuração do meu Windows 11
+# Configurações do meu Windows 11
 
 Minhas configurações, programas e debloat para deixar o Windows 11 do jeito que eu gosto, muito mais clean, sem IA slop de copilot e outras lixeiras da microsoft.
 
