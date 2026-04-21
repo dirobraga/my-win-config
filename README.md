@@ -3,12 +3,10 @@
 Minhas configurações, programas e debloat para deixar o Windows 11 do jeito que eu gosto, muito mais clean e sem IA.
 
 ## 1. Chris Titus Tech's Windows Utility
-
+> Link do git: https://github.com/christitustech/winutil
 Este utilitário é uma compilação de tarefas do Windows que realizo em cada sistema Windows que utilizo. Ele visa agilizar instalações, remover programas desnecessários com ajustes, solucionar problemas com configurações e corrigir atualizações do Windows.
 
 ![utilitário](./assets/Title-Screen.png)
-
-> Link do git: https://github.com/christitustech/winutil
 
 ### Como Usar:
 
