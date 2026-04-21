@@ -23,7 +23,10 @@ irm "https://christitus.com/win" | iex
 5. Na aba install, clique em **"Install/Upgrade aplications"** e espera a conclusão;
 6. Na aba Tweaks, clique em **"Run tweaks"** e espere a conclusão.
 7. Pronto! =D
-    > Todos os programas, tweaks e configurações serão aplicados automaticamente.
+> Todos os programas, tweaks e configurações serão aplicados automaticamente.
+> [!NOTE] Atenção!
+> Caso queria adicionar/tirar algum aplicativo ou opção, basta marcar/desmarcar o app ou tweak da sua preferência.
+
 
 ## 2. Spotify sem ad (SpotX)
 
