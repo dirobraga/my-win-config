@@ -26,7 +26,6 @@ irm "https://christitus.com/win" | iex
 5. Na aba install, clique em **"Install/Upgrade aplications"** e espera a conclusão;
 6. Na aba Tweaks, clique em **"Run tweaks"** e espere a conclusão.
 7. Pronto! =D
-> Todos os programas, tweaks e configurações serão aplicados automaticamente.
 
 > [!CAUTION]
 > Isso desabilita algumas opções que talvez você ache importante,
