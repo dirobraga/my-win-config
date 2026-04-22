@@ -30,16 +30,13 @@ irm "https://christitus.com/win" | iex
 
 
 ## 2. Spotify sem ad (SpotX)
-
 > link do git: https://github.com/SpotX-Official/SpotX
 
 1. Abra o PowerShell ou Terminal (Windows 11) como **administrador**;
 2. Cole o comando abaixo;
-
 ```bash
 iex "& { $(iwr -useb 'https://raw.githubusercontent.com/SpotX-Official/SpotX/refs/heads/main/run.ps1') } -new_theme"
 ```
-
 3. Reponda as perguntas de acordo com suas preferências;
 4. Aproveite! =D
 
