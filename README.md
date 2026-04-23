@@ -21,8 +21,7 @@ Este utilitário é uma compilação de tarefas do Windows que realizo em cada s
 irm "https://christitus.com/win" | iex
 ```
 
-[!IMPORTANT]>
-
+> [!IMPORTANT]
 > Aba "install" será os programas que serão baixados  
 > Aba "Tweaks" será configurações do Windows
 
